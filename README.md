@@ -1,3 +1,7 @@
+### `This theme is based on pastel shades with beige and olive.`
+
+https://theme-olive-beige-ap.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
